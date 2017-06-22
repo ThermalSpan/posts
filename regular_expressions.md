@@ -1,3 +1,7 @@
+---
+title: Regular Expressions
+---
+
 # This is an article!
 This is some text!
 
@@ -21,3 +25,5 @@ Then we will go into more formal detail about what they are. First thing would r
 
 
 From there we will demonstrate and fully explore the "high level" features that we want. Things like character classes. These are characters that 
+
+$$x_5 = p(xdfd^sdfsd)$$
